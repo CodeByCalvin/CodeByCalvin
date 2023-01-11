@@ -6,12 +6,12 @@ Junior Developer in Sheffield, UK
 
 I'm a a hard-working, self-taught junior developer who studies and creates fun projects using Javascript, HTML and CSS alongside a teaching career and the running of a freelance photo and video production business.
 
-🌍  I'm based in Sheffield, UK
-✉️  You can contact me at [calvin@calvinmerry.com](mailto:calvin@calvinmerry.com)
-🚀  I'm currently working on [a boutique flower shop website](http://github.com/CodeByCalvin/The-Flower-Collective-Website)
-🧠  I'm learning JavaScript, CSS and HTML and will soon be learning React and Tailwind
-🤝  I'm open to collaborating on interesting, open-source projects that provide value to people's lives
-⚡  I'm passionate about fitness (strength training), optimising productivity and wellbeing, podcasts, photography, videography, Dungeons & Dragons, and a million other things!
+🌍   I'm based in Sheffield, UK </br>
+✉️   You can contact me at [calvin@calvinmerry.com](mailto:calvin@calvinmerry.com)</br>
+🚀   I'm currently working on [a boutique flower shop website](http://github.com/CodeByCalvin/The-Flower-Collective-Website)</br>
+🧠   I'm learning JavaScript, CSS and HTML and will soon be learning React and Tailwind</br>
+🤝   I'm open to collaborating on interesting, open-source projects that provide value to people's lives</br>
+⚡   I'm passionate about fitness (strength training), optimising productivity and wellbeing, podcasts, photography, videography, Dungeons & Dragons, and a million other things!</br>
 
 <a href="https://www.twitter.com/CodebyCalvin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/CodebyCalvin?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
