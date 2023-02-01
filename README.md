@@ -7,7 +7,7 @@ Junior Developer in Sheffield, UK
 I'm a a hard-working, self-taught junior developer who studies and creates fun projects using Javascript, HTML and CSS alongside a teaching career and the running of a freelance photo and video production business.
 
 🌍   I'm based in Sheffield, UK </br>
-💰   I own a photography & videographer business</br>
+💰   I own a [photography & videographer business](https://www.instagram.com/calvinmerryproductions/)</br>
 ✉️   You can contact me at [calvin@calvinmerry.com](mailto:calvin@calvinmerry.com)</br>
 🚀   I'm currently working on [a boutique flower shop website](http://github.com/CodeByCalvin/The-Flower-Collective-Website)</br>
 🧠   I'm learning JavaScript, CSS and HTML and will soon be learning React and Tailwind</br>
