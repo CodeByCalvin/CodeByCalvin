@@ -1,8 +1,11 @@
+![Img banner](https://i.imgur.com/v0JUYEx.png)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Calvin
 ==============================================================================================================================
 
-Software engineer in Sheffield, UK
----------------------------------
+
+Full-Stack Software Engineer in Sheffield, UK
+---------------------------------------------
 
 🌍 I'm based in Sheffield, UK </br>
 💡 I am currently working on a [productivity tool for teachers](https://github.com/CodeByCalvin/Jigsaw-Puzzle-Tracker)</br>
