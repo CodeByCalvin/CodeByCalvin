@@ -10,7 +10,8 @@ Full-Stack Software Engineer in Sheffield, UK
 🌍 I'm based in Sheffield, UK </br>
 💡 I am currently working on a [productivity tool for teachers](https://github.com/CodeByCalvin/Jigsaw-Puzzle-Tracker)</br>
 🚀 I have made a [boutique flower shop website](http://github.com/CodeByCalvin/The-Flower-Collective-Website), a [D&D-inspired text-adventure](https://github.com/CodeByCalvin/DnD-Text-Adventure) and a [Game Suggestion Quiz](https://github.com/CodeByCalvin/Quiz-App)</br>
-🧠   I'm learning JavaScript, CSS and HTML and will soon be learning React and Tailwind</br>
+🧠   I build things using React, JavaScript, Node.js, HTML and CSS</br>
+📖   I will soon be learning Tailwind CSS
 💰   I own a [photography & videographer business](https://www.instagram.com/calvinmerryproductions/)</br>
 🤝   I want to collaborate and work on interesting projects that provide value to people's lives through productivity and accessability</br>
 ⚡   I'm passionate about fitness/strength training, podcasts, photography, videography, video games, Dungeons & Dragons, and a million other things!</br>
