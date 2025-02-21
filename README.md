@@ -9,11 +9,11 @@ Software Engineer in Sheffield, UK
 
 🌍 I'm based in Sheffield, UK </br>
 💡 I am currently working on a [productivity tool for teachers](https://github.com/CodeByCalvin/wagollwizardai)</br>
-🧠   I build things using Nextjs/React, Typescript, Tailwind, Python, Node.js</br>
+🧠 I build things using React, Typescript, Tailwind, Python, Node.js</br>
 📖  I am currently learning Neovim & algorithims</br>
-🤝   I want to collaborate and work on interesting projects that provide value to people's lives through productivity and accessability</br>
-⚡   I'm passionate about fitness & strength training, podcasts, photography, videography, video games, Dungeons & Dragons, and a million other things!</br>
-✉️   You can contact me at [calvin@calvinmerry.com](mailto:calvin@calvinmerry.com)</br>
+🤝  I want to collaborate and work on interesting projects that provide value to people's lives through productivity and accessability</br>
+⚡   I'm passionate about fitness & strength training, podcasts, photography, videography, video games and Dungeons & Dragons</br>
+✉️   You can contact me at [hello@calvinmerry.com](mailto:hello@calvinmerry.com)</br>
 <!-- 🚀   I'm currently working on [a boutique flower shop website](http://github.com/CodeByCalvin/The-Flower-Collective-Website)</br> -->
 
 ### Skills
