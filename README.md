@@ -8,7 +8,7 @@ Software Engineer in Sheffield, UK
 ---------------------------------------------
 
 🌍 I'm based in Sheffield, UK </br>
-💡 I am currently working on a [productivity tool for teachers](https://github.com/CodeByCalvin/wagollwizardai)</br>
+💡 I am currently working on a music and soundboarding app for Dungeons and Dragons games!</br>
 🧠 I build things using React, Typescript, Tailwind, Python, Node.js</br>
 📖  I am currently learning Neovim & algorithims</br>
 🤝  I want to collaborate and work on interesting projects that provide value to people's lives through productivity and accessability</br>
