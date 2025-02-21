@@ -9,7 +9,7 @@ Software Engineer in Sheffield, UK
 
 🌍 I'm based in Sheffield, UK </br>
 💡 I am currently working on a music and soundboarding app for Dungeons and Dragons games!</br>
-🧠 I build things using React, Typescript, Tailwind, Python, Node.js</br>
+🧠 I build things using React, Typescript, Tailwind, Python and Node.js</br>
 📖  I am currently learning Neovim & algorithims</br>
 🤝  I want to collaborate and work on interesting projects that provide value to people's lives through productivity and accessability</br>
 ⚡   I'm passionate about fitness & strength training, podcasts, photography, videography, video games and Dungeons & Dragons</br>
@@ -18,9 +18,9 @@ Software Engineer in Sheffield, UK
 
 ### Skills
 
-NextJS | React | TypeScript | JavaScript | Tailwind | Node.js | Python | Selenium | Figma
-:----:|:-----:|:----------:|:----------:|:-------:|:-------:|:------:|:-------:|:-----:
-![My Skills](https://skillicons.dev/icons?i=nextjs) | ![My Skills](https://skillicons.dev/icons?i=react) | ![My Skills](https://skillicons.dev/icons?i=typescript) | ![My Skills](https://skillicons.dev/icons?i=javascript) | ![My Skills](https://skillicons.dev/icons?i=tailwind) | ![My Skills](https://skillicons.dev/icons?i=nodejs) | ![My Skills](https://skillicons.dev/icons?i=python) | ![My Skills](https://skillicons.dev/icons?i=selenium) | ![My Skills](https://skillicons.dev/icons?i=figma)
+React | Vite | TypeScript | JavaScript | Python | Tailwind | Node.js | Jest | Playwright | Figma
+:----:|:-----:|:----------:|:----------:|:-----:|:-------:|:-------:|:----:|:----------:|:-----:
+![My Skills](https://skillicons.dev/icons?i=react) | ![My Skills](https://skillicons.dev/icons?i=vite) | ![My Skills](https://skillicons.dev/icons?i=typescript) | ![My Skills](https://skillicons.dev/icons?i=javascript) | ![My Skills](https://skillicons.dev/icons?i=python) | ![My Skills](https://skillicons.dev/icons?i=tailwind) | ![My Skills](https://skillicons.dev/icons?i=nodejs) | ![My Skills](https://skillicons.dev/icons?i=jest) | ![My Skills](https://skillicons.dev/icons?i=playwright) | ![My Skills](https://skillicons.dev/icons?i=figma)
 
 
 
@@ -31,7 +31,7 @@ Portfolio | LinkedIn |
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://calvinmerry.dev) | [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/calvin-merry) 
 
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CodeByCalvin)
 
